@@ -21,8 +21,8 @@ This is a simple web page component that displays a QR code to the Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://github.com/ulisesedu7/qr-code-project)
+- Live Site URL: [Add live site URL here](https://ulisesedu7.github.io/qr-code-project/)
 
 ## My process
 First I created the HTML mark up using semantic tags. Then, I started the basic mobile styles to make it look like the design. Finally, I adjusted the css styles to easily adapt to desktop screens.
