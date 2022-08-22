@@ -21,7 +21,7 @@ This is a simple web page component that displays a QR code to the Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ulisesedu7/qr-code-project)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-solution-U3mqBjGau_)
 - Live Site URL: [Add live site URL here](https://ulisesedu7.github.io/qr-code-project/)
 
 ## My process
